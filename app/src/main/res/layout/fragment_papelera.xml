@@ -9,5 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="Papelera de Archivos" />
+        android:text="Papelera de Archivos"
+        android:layout_gravity="center"
+        android:textSize="50sp"/>
 </FrameLayout>
