@@ -22,6 +22,13 @@ Seleccionando la opciòn Archivos Destacados
 ![image](https://user-images.githubusercontent.com/69086149/216545135-40b36127-7eaa-4103-a86c-8a76eea19daf.png)
 
 
+Selecccionado la opciòn Sin Internet
+
+![Captura de pantalla_20230203_030752](https://user-images.githubusercontent.com/69086149/216546545-4497957f-1c27-4a98-a637-6769f0729a28.png)
+
+
+
+
 
 Y asi sucesivamente en las demas opciones
 
