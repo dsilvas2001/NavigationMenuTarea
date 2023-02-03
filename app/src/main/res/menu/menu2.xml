@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_subheader"
+        android:title="">
+        <menu>
+            <item
+                android:id="@+id/menu_opcion_1"
+                android:icon="@drawable/icontime"
+                android:title="Reciente"/>
+            <item
+                android:id="@+id/menu_opcion_2"
+                android:icon="@drawable/iconestrella"
+                android:title="Destacados"/>
+            <item
+                android:id="@+id/menu_opcion_3"
+                android:icon="@drawable/iconsinconexion"
+                android:title="Sin conexión"/>
+            <item
+                android:id="@+id/menu_opcion_4"
+                android:icon="@drawable/iconbasura"
+                android:title="Papelera"/>
+            <item
+                android:id="@+id/menu_opcion_5"
+                android:icon="@drawable/iconsetting"
+                android:title="Configuración"/>
+            <item
+                android:id="@+id/menu_opcion_6"
+                android:icon="@drawable/iconhelp"
+                android:title="Ayuda y comentarios"/>
+            <item
+                android:id="@+id/menu_opcion_7"
+                android:icon="@drawable/iconalmacenamiento"
+                android:title="Almacenamiento"
+                />
+        </menu>
+    </item>
+</menu>
+
